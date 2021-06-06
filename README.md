@@ -1,4 +1,4 @@
-# bort's CS:GO configs
+# omi's CS:GO configs
 
 These are my configs for CS:GO, which consist of 5 different parts:
 
